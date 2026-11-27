@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:40:03.176Z",
+  "generated_at": "2026-11-27T11:17:38.295Z",
   "items": {
     "problem:328": {
       "kind": "problem",
@@ -246,6 +246,19 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-11-27T10:40:02.472Z",
       "last_pushed_at": "2026-11-27T10:40:02.472Z"
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-11-27T11:17:37.481Z",
+      "last_pushed_at": "2026-11-27T11:17:37.481Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
